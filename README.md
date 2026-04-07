@@ -1,7 +1,7 @@
 # Howdy y'all, I'm Jackie.
 ###### UX/UI Design, PM, Dev, & Cybersecurity are my main hats.<br> *Photographer, Reviewer, Traveler, & Actor are my free time passions.*
 
-Been in the business of juggling titles for the same skills for over 14 years. ;-) Added in Cybersecurity in the recent months with CompTIA+ certifications, to expand skillsets along with my recent AI capabilities. I have worked globally and domestically with dual citizenships under my belt across numerous Fortune500 organizations. 
+Been in the business of juggling titles for the same skills for over 14 years. ;-) Added in Cybersecurity in the recent months with CompTIA+ certifications, to expand skillsets along with my recent AI capabilities. I have worked globally and domestically with dual citizenships under my belt across numerous Fortune 500 companies. 
 
 ## Connect with Me!
 [Portfolio](https://californiaxsunset.wixsite.com/jackie) · [LinkedIn](https://www.linkedin.com/in/jackiegiusti/) · hereforallthejunk@gmail.com
@@ -16,17 +16,29 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-## Skills
-QA & Testing · Manual Testing · Exploratory Testing · Cross-Browser Testing · Regression Testing · Bug Documentation · E2E Automation
+## My Mastery Tree 𖣂
+#### Product Vision & Design Strategy
+> <ins>**Tools:**</ins> Figma, Sketch, Adobe XD, InVision, Balsamiq, Axure RP, Framer, Adobe Suite (Illustrator, Photoshop, InDesign, After Effects, Premiere Pro), Principle, Zeplin<br>
+> <ins>**Methods:**</ins> User Research · Usability Testing · Heuristic Analysis · Journey Mapping · Storyboarding · Wireframing · Prototyping (low/high fidelity) · Information Architecture · Interaction Design · UI/UX/CX · Accessibility (WCAG) · Design Systems & Atomic Design · Card Sorting · Typography · Color Theory · Layout & Composition · Branding · Iconography · Motion Design · Responsive Design
 
-**Development:** React 18 · Node.js · Express · MongoDB · Mongoose · Redux Toolkit · JWT · Passport.js · REST APIs · HTML · CSS · JavaScript
+#### Program/Project Management
+> <ins>**Tools:**</ins> Jira, Confluence, Asana, Trello, Monday.com, Notion, Airtable<br>
+> <ins>**Methods:**</ins> Agile, Scrum, Kanban · Sprint Planning · Roadmapping · Backlog Grooming · Stakeholder Management · OKRs / KPIs · Product Strategy · User Story Writing · Risk Management · Go-to-Market Strategy
 
-**Tools:** Git · GitHub · VS Code · Postman · Contentful · Cloudinary · Shopify · Browser DevTools
+#### Data & Development
+> <ins>**Frameworks/Languages:**</ins> JavaScript, TypeScript, Python, Java, SQL, HTML, CSS, React, React Native, Node.js, Flask, Git, GitHub, VS Code, Postman <br>
+> <ins>**Tools:**</ins> REST APIs · GraphQL · JWT · OAuth · WebSockets · Microservices · Cloud (AWS, GCP, Azure) · DevOps · MongoDB · PostgreSQL · MySQL
+
+#### CyberSecurity & Systems
+> <ins>**Tools:**</ins> Wireshark, Metasploit, Splunk<br>
+> <ins>**Methods:**</ins> Network Security · Application Security · Vulnerability Assessment · Penetration Testing · Threat Modeling · Risk Analysis · Encryption / Cryptography · Identity & Access Management (IAM) · Secure SDLC · OWASP · NIST
+
+#### Digital Marketing & Testing
+> <ins>**Tools:**</ins> Google Analytics, Mixpanel, Amplitude, HubSpot, Marketo, Salesforce, SEMrush, Canva, Mailchimp<br>
+> <ins>**Methods:**</ins> Market Research · Competitive Analysis · Product Positioning · Messaging Strategy · Funnel Optimization · GTM Strategy · Customer Segmentation · Campaign Strategy · A/B Testing · Brand Strategy · Retention & Engagement Strategy
 
 ***
 ## Currently

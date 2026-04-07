@@ -1,10 +1,10 @@
 # Howdy y'all, I'm Jackie.
 ###### UX/UI Design, PM, Dev, & Cybersecurity are my main hats.<br> *Photographer, Reviewer, Traveler, & Actor are my free time passions.*
 
-Been in the business of juggling titles for the same skills for over 14 years. ;-) Added in Cybersecurity in the recent months with CompTIA+ certifications, to expand skillsets along with AI capabilities. Worked globally and domestically with dual citizenships under my belt across numerous Fortune500 organizations. 
+Been in the business of juggling titles for the same skills for over 14 years. ;-) Added in Cybersecurity in the recent months with CompTIA+ certifications, to expand skillsets along with my recent AI capabilities. I have worked globally and domestically with dual citizenships under my belt across numerous Fortune500 organizations. 
 
 ## Connect with Me!
-[Portfolio](https://californiaxsunset.wixsite.com/jackie) · [LinkedIn](https://www.linkedin.com/in/jackiegiusti/)) · hereforallthejunk@gmail.com
+[Portfolio](https://californiaxsunset.wixsite.com/jackie) · [LinkedIn](https://www.linkedin.com/in/jackiegiusti/) · hereforallthejunk@gmail.com
 ***
 <!--
 **heartxofxmine/heartxofxmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-QA & Testing Playwright · Manual Testing · Exploratory Testing · Cross-Browser Testing · Regression Testing · Bug Documentation · E2E Automation
+QA & Testing · Manual Testing · Exploratory Testing · Cross-Browser Testing · Regression Testing · Bug Documentation · E2E Automation
 
 **Development:** React 18 · Node.js · Express · MongoDB · Mongoose · Redux Toolkit · JWT · Passport.js · REST APIs · HTML · CSS · JavaScript
 

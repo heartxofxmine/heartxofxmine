@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 > <ins>**Tools:**</ins> REST APIs · GraphQL · JWT · OAuth · WebSockets · Microservices · Cloud (AWS, GCP, Azure) · DevOps · MongoDB · PostgreSQL · MySQL
 
 #### CyberSecurity & Systems
-> <ins>**Tools:**</ins> Wireshark, Metasploit, Splunk<br>
+> <ins>**Tools:**</ins> Wireshark, Metasploit, Splunk, Hack the Box, HackerRank, https://ctf.hacker101.com/auth/login, https://ctf.hacker101.com/auth/login, TryHackMe, LeetCode<br>
 > <ins>**Methods:**</ins> Network Security · Application Security · Vulnerability Assessment · Penetration Testing · Threat Modeling · Risk Analysis · Encryption / Cryptography · Identity & Access Management (IAM) · Secure SDLC · OWASP · NIST
 
 #### Digital Marketing & Testing
